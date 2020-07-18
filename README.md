@@ -4,4 +4,4 @@ Material for the workshop "Machine Learning in practice" (Nora M. Villanueva & M
 
 GDG DevFest 2018, November 17th, Santiago de Compostela (Spain).
 
-https://devfest.gdggalicia.com/
+https://devfest-2018.gdggalicia.com/speakers/
